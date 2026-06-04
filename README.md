@@ -1,3 +1,5 @@
+                                                                   Python Project 2
+
 📌 Project Overview
 
 Netflix has become one of the world's leading streaming platforms, offering a vast collection of Movies and TV Shows across different genres and regions. This project performs an Exploratory Data Analysis (EDA) on the Netflix Movies and TV Shows dataset to uncover patterns in content distribution, release trends, audience ratings, genres, and country-wise production.
