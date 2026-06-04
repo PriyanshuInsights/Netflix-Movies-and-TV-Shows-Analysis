@@ -5,14 +5,23 @@ Netflix has become one of the world's leading streaming platforms, offering a va
 The analysis aims to understand Netflix's content strategy, identify dominant content categories, and provide insights into how the platform has evolved over time.
 
 🎯 Objectives
+
 Understand the distribution of Movies and TV Shows on Netflix.
+
 Analyze content growth and release trends over the years.
+
 Identify the top countries producing Netflix content.
+
 Explore the most popular genres and categories.
+
 Examine audience ratings and target demographics.
+
 Analyze movie durations and TV show season distributions.
+
 Generate business insights through data visualization.
+
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
