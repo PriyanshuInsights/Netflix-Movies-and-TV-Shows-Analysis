@@ -65,3 +65,8 @@ Standardized duration values for Movies and TV Shows.
 Verified duplicate records and ensured data consistency.
 
 Prepared the dataset for visualization and exploratory analysis.
+
+👤 Author
+
+Priyanshu
+Aspiring Data Analyst | Python | SQL|Excel|Power BI | Data Visualization | Exploratory Data Analysis
