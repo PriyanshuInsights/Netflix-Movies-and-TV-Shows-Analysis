@@ -68,5 +68,6 @@ Prepared the dataset for visualization and exploratory analysis.
 
 👤 Author
 
-Priyanshu
+Priyanshu Gupta
+
 Aspiring Data Analyst | Python | SQL | Excel | Power BI | Data Visualization | Exploratory Data Analysis
